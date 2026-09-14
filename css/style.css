@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Georgia, 'Times New Roman', Times, serif, Arial, fallback, sans-serif;
+    background-color: #faf3e4;
+}
+
+h1 {
+    text-align: left;
+    font-size: 1em;
+    margin-top: 10px;
+    color: #333;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px 2px;
+    background-color: #ffdf94;
+    border-bottom: 1px solid #ffd694;
+}
